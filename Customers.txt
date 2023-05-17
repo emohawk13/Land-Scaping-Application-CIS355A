@@ -1,2 +1,0 @@
-Jack Black|123 Fake Street|Grass|20.0|45.0|4500.0
-Steven Johnson|456 Fake Street|Grass|80.0|45.0|18000.0
